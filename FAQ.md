@@ -19,3 +19,6 @@ Não.
 
 ### 06 - Então, se eu faltar em uma aula, perderei o conteúdo?
 Normalmente, trabalhamos com um módulo por aula. Nesse sentido, caso não possa comparecer a uma aula síncrona, basta consumir o conteúdo equivalente na plataforma Huawei Talent no formato gravado.
+
+### 07 - Estou tentando me matricular em uma turma, mas o código informado no tutorial disponível no arquivo README.md consta como inválido.
+A plataforma Huawei Talent altera o código do convite diariamente. O instrutor de seu treinamento informará o código atual em cada uma das aulas síncronas, caso seja necessário.
