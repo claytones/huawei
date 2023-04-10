@@ -1,6 +1,6 @@
 # FAQ - Frequently Asked Questions.
 
-### 01 - Como funcionam as aulas ministradas síncronas?
+### 01 - Como funcionam as aulas ministradas de modo síncrono?
 As aulas síncronas são ministradas semanalmente, de forma remota, das 19:00 às 22:35h.
 
 ### 02 - Em que dia da semana as aulas síncronas são ministradas?
