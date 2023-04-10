@@ -125,6 +125,8 @@ A indicação de que tudo correu bem consiste na exibição da informação de q
 
 ## Passo 03: Matrícula no treinamento desejado:
 
+**Atenção:** Esse passo só será possível após aprovação do vínculo do estudante por parte do gestor da Academia. Você receberá um e-mail assim que a etapa em questão estiver concluída.
+
 Clique no nome do seu usuário - no topo superior direito, escolhendo em seguida a opção "**User Center**" no menu que será exibido:
 
 ![passo-03-user-center](https://user-images.githubusercontent.com/19753332/230798248-f9fd8dda-0ce1-47f2-acb8-909cfd257629.png)
