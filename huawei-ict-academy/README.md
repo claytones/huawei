@@ -21,7 +21,7 @@
 
 - Para que alunos e instrutores possam consumir o conteúdo da plataforma, são necessários três passos, à saber:
 
-1. Criação de um usuário na plataforma;
+1. Criação de um usuário na plataforma:
 
 ```mermaid
 graph LR
@@ -37,7 +37,7 @@ C --> I[Role Information]
 C --> J[My Academy + IFSP campus Bragança Paulista]
 ```
 
-2. Vínculo à uma ICT Academy ativa;
+2. Vínculo à uma ICT Academy ativa:
 
 ```mermaid
 graph LR
@@ -49,7 +49,7 @@ G --> K
 K --> L[Login]
 ```
 
-3. Matrícula no treinamento desejado.:
+3. Matrícula no treinamento desejado:
 
 ```mermaid
 graph LR
