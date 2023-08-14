@@ -5,6 +5,7 @@
 - Os arquivos estão organizados por tracks em um primeiro nível e por curso, no segundo:
 ```mermaid
 graph LR
+W[Huawei ICT Competition] --> A
 A[Tracks] --> B[Cloud]
 A --> C[Computing]
 A --> D[Networking]
