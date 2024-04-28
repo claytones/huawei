@@ -11,6 +11,7 @@
 | Plataforma utilizada para transmissão das aulas | Canal unixlabs do Youtube, inscreva-se | https://www.youtube.com/@unixlabs |
 | Procedimento para criação de um novo estudante | Etapa 01/03 | https://www.youtube.com/watch?v=_O9AH5THvw4 |
 | Procedimento para vínculo do novo estudante à uma Huawei ICT Academy | Etapa 02/03 | https://www.youtube.com/watch?v=hRVxlXSZxtU |
+| Procedimento para matricular o novo usuário em um treinamento | Etapa 03/03 | https://www.youtube.com/watch?v=BhUrjIAEnOM |
 | Treinamento EXT HCIA CSv3.5 - BRA1s2024 | Huawei Talent | **Invitation code:** Zi0ThF |
 | Treinamento EXT HCIP CSv3.0 - BRA1s2024 | Huawei Talent | Aguardando disponibilidade do treinamento na plataforma para criação da turma |
 
