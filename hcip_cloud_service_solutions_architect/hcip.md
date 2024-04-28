@@ -16,6 +16,10 @@
 
 ## Certificação HCIP-Cloud Service Solutions Architect
 
+Huawei Certified ICT Professional-Cloud Service Solutions Architect
+
+Cultivar e certificar arquitetos de soluções que sejam capazes de projetar arquitetura em nuvem e O&M em nuvem dos serviços HUAWEI CLOUD, e que tenham a capacidade de migrar arquiteturas de aplicativos corporativos tradicionais e arquiteturas nativas da nuvem para a nuvem.
+
 | Descrição | Observações | Informações Complementares |
 | --- | --- | --- |
 | Certification Procedure | Aba 1 - Overview| https://bit.ly/49VSSM6 |
@@ -23,3 +27,11 @@
 | Lab Guide | Aba 2 - Learning | Link oculto, exige cadastro na plataforma Huawei Talent |
 | Mock Exam | Aba 2 - Learning | https://talent.shixizhi.huawei.com/iexam/1365189427395223554/examInfo?examId=1605750023205177361&sxz-lang=en_US |
 | Version Instruction | Aba 2 - Learning | https://e.huawei.com/cn/talent/#/download?fileId=8985&edocId=M1T1A82N782270590266986532 |
+
+## Laboratórios Práticos
+
+KooLabs é a plataforma de laboratório oficial da Huawei Cloud, onde ambientes de laboratório podem ser iniciados com um único clique. Seguindo o guia do laboratório, os desenvolvedores podem começar rapidamente a usar os serviços Huawei Cloud e implementá-los, depurá-los e verificá-los na nuvem.
+
+| Descrição | Observações | Informações Complementares |
+| --- | --- | --- |
+| KooLabs | Huawei Cloud | https://lab.huaweicloud.com/intl/en-us/ |
