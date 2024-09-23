@@ -6,7 +6,7 @@
 | Descrição | Observações | Informações Complementares |
 | --- | --- | --- |
 | Ambiente Virtual de Aprendizagem | Huawei Talent | https://e.huawei.com/en/talent/ |
-| FAQ - Frequently Asked Questions | Repositório de materiais adicionais e informações sobre o treinamento | https://github.com/claytones/huawei/hcip_cloud_service_solutions_architect/hcip.md |
+| FAQ - Frequently Asked Questions | Repositório de materiais adicionais e informações sobre o treinamento | https://github.com/claytones/huawei/blob/main/hcip_cloud_service_solutions_architect/hcip.md |
 | Plataforma utilizada para comunicação | Telegram | Link convite divulgado via e-mail, exclusivamente para os estudantes da turma |
 | Plataforma utilizada para transmissão das aulas | Canal unixlabs do Youtube, inscreva-se | https://www.youtube.com/@unixlabs |
 | Procedimento para criação de um novo estudante | Etapa 01/03 | Em breve... |
