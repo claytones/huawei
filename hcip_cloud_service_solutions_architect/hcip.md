@@ -9,9 +9,10 @@
 | FAQ - Frequently Asked Questions | Repositório de materiais adicionais e informações sobre o treinamento | https://github.com/claytones/huawei/blob/main/hcip_cloud_service_solutions_architect/hcip.md |
 | Plataforma utilizada para comunicação | Telegram | Link convite divulgado via e-mail, exclusivamente para os estudantes da turma |
 | Plataforma utilizada para transmissão das aulas | Canal unixlabs do Youtube, inscreva-se | https://www.youtube.com/@unixlabs |
-| Procedimento para criação de um novo estudante | Etapa 01/03 | Em breve... |
-| Procedimento para vínculo do novo estudante à uma Huawei ICT Academy | Etapa 02/03 | Em breve... |
-| Procedimento para matricular o novo usuário em um treinamento | Etapa 03/03 | Em breve... |
+| Sobre o programa Huawei ICT Academy | Depoimento do Diretor de Educação e Valor Social da Huawei do Brasil, Victor Montenegro | https://www.youtube.com/watch?v=wWy2VCGXHMQ&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=2 |
+| Procedimento para criação de um novo estudante | Etapa 01/03 | https://www.youtube.com/watch?v=_O9AH5THvw4&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=6 |
+| Procedimento para vínculo do novo estudante à uma Huawei ICT Academy | Etapa 02/03 | https://www.youtube.com/watch?v=hRVxlXSZxtU&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=5 |
+| Procedimento para matricular o novo usuário em um treinamento | Etapa 03/03 | https://www.youtube.com/watch?v=BhUrjIAEnOM&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=4 |
 | Treinamento EXT HCIP CSv3.0 - BRA2s2024 | Huawei Talent | **Invitation code:** 8fN76Z |
 
 ## Laboratórios Práticos
