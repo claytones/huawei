@@ -1,5 +1,5 @@
 # Treinamento HCIP - Cloud Service Solutions Architect
-## Turma: [EXT HCIP-CS: BRA2s2024]
+## Turma: [EXT HCIP-CS: BRA1s2025]
 
 ## Informações Gerais:
 
