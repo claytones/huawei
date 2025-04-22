@@ -13,7 +13,8 @@
 | Procedimento para criação de um novo estudante | Etapa 01/03 | https://www.youtube.com/watch?v=_O9AH5THvw4&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=6 |
 | Procedimento para vínculo do novo estudante à uma Huawei ICT Academy | Etapa 02/03 | https://www.youtube.com/watch?v=hRVxlXSZxtU&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=5 |
 | Procedimento para matricular o novo usuário em um treinamento | Etapa 03/03 | https://www.youtube.com/watch?v=BhUrjIAEnOM&list=PLBghP5zO1DCUnN7aLg3ruRk6qR4J4xHp5&index=4 |
-| Treinamento EXT HCIP CSv3.0 - BRA2s2024 | Huawei Talent | **Invitation code:** 8fN76Z |
+| Treinamento EXT HCIP CSv3.0 - BRA1s2025 | Huawei Talent | **Invitation code:** JRXjmP |
+| Material didático utilizados nas aulas síncronas | Huawei Talent | https://e.huawei.com/en/talent/#/cert/product-details?certifiedProductId=661&authenticationLevel=CTYPE_CARE_HCIP&technicalField=PSC&version=3.0 |
 | Huawei ID | Considerações importantes sobre a unificação de autenticação nos serviços ofertados pela Huawei | https://e.huawei.com/en/talent/news/#/details?consultationId=4488 |
 
 ## Laboratórios Práticos
